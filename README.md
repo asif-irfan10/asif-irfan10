@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Asif M.Irfan</h1>
 <h3 align="center">A passionate Full Stack developer from Pakistan</h3>
-<img align="center" alt="coding" width="400" src="[afUQD6lZ9Df+EU3jN/35F5RL+i+a+p0eJuyIihMhERAEREB/9k=](https://static.thenounproject.com/png/2734299-200.png)">
+<img align="center" alt="coding" width="400" src="https://cdn1.iconfinder.com/data/icons/data-science-1-1/512/20-512.png">
 
 <h1 align="center">📌 ABOUT US: </h1>
 
