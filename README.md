@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Asif M.Irfan</h1>
 <h3 align="center">A passionate Full Stack developer from Pakistan</h3>
-<img align="right" alt="coding" width="400" src="[https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiR7C0lqw6CgxbIh9RBB43GdqJGVFm4fvVhfhcubvjMw&s)">
+<img align="right" alt="coding" width="400" src="
+  https://cdn0.iconfinder.com/data/icons/occupation-002/64/programmer-programming-occupation-avatar-512.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maimoonairfan&label=Profile%20views&color=0e75b6&style=flat" alt="maimoonairfan" /> </p>
 
